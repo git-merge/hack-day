@@ -19,3 +19,23 @@ There will be a drinkup Saturday evening at 8:00pm at
 ( [map](http://goo.gl/maps/ti4kw") )
 
 It will be open to the public with beer covered by GitHub and food available for purchase.
+
+## Schedule
+
+* Start time: 9am
+* Breakfast: 9am - 9:30am
+* Lunch: 12:30pm - 1:30pm
+* Snack Break: 3:30pm - 4pm
+* Hack Presentations: 4pm - 6pm
+* End time: 6pm
+* Drinkup: 8pm
+
+## Space
+
+* 200 attendees
+* Conference Room: Nikolai 1 (7th floor, we have the entire floor)
+* Seating: All rounds
+* Stage for speakers
+* A/V Setup
+* Several white boards
+
