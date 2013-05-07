@@ -12,3 +12,10 @@ If you want to hack on something, **start an issue in this repository** so that 
 
 In the docs/ subdirectory of this repository we would like to document what was worked on during the day.  If you start a project, fork this repository, try to document it in a file in this subdirectory (ie: `docs/my-project.md`) and at the end of the day submit a pull request so all of the projects documentation (what it does, why you worked on it, a link to the repo or website, etc) is in a single place.
  
+## Drinkup
+
+There will be a drinkup Saturday evening at 8:00pm at 
+[Golgatha Biergarten](http://www.golgatha-berlin.de/index.php?s=1)
+( [map](http://goo.gl/maps/ti4kw") )
+
+It will be open to the public with beer covered by GitHub and food available for purchase.
