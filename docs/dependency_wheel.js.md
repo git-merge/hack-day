@@ -1,4 +1,4 @@
-## DependencyWheel.js
+## dependency_wheel.js
 
 Göran Bodenschlatz (coding46) and myself (Robert Reiz)(reiz) worked on dependency_wheel.js <https://github.com/versioneye/dependency_wheel>. This is a JavaScript library to visualize connections between nodes. On <http://www.versioneye.com> it is used to visualize recursive dependencies of Software Libraries. Here is an example:
 
